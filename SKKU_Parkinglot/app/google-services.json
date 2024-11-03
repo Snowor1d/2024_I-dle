@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933315762864",
+    "project_id": "skkuparkinglot",
+    "storage_bucket": "skkuparkinglot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933315762864:android:aef381011ff09a1451b975",
+        "android_client_info": {
+          "package_name": "com.example.skku_parkinglot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoJHkzG99RrQdsbvqxIpirwdSzJm_wqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

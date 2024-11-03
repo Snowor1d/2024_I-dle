@@ -124,6 +124,7 @@
         <View
             android:visibility="gone"
             android:id="@+id/spot_2"
+            android:text= "2"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -178,77 +179,77 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_278"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_279"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_280"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_281"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_282"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_283"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_284"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_285"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_286"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_287"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_288"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -256,54 +257,45 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_289"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_290"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_291"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_292"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_293"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_294"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:visibility="gone"
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
             android:background="@color/full" />
 
         <View
@@ -388,6 +380,7 @@
             android:background="@color/full" />
 
         <View
+            android:visibility="gone"
             android:id="@+id/spot_2"
             android:layout_width="8dp"
             android:layout_height="18dp"
@@ -396,7 +389,15 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_261"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_262"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -404,7 +405,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_263"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -412,7 +413,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_264"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -420,7 +421,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_265"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -428,7 +429,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_266"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -439,7 +440,7 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
-            android:id="@+id/spot_1"
+            android:id="@+id/spot_267"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -448,7 +449,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_268"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -456,7 +457,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_269"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -464,7 +465,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_270"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -472,7 +473,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_271"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -480,7 +481,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_272"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -488,7 +489,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_273"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -496,7 +497,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_274"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -504,7 +505,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_275"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -512,7 +513,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_276"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -520,7 +521,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_277"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -564,7 +565,15 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_238"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_239"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -572,7 +581,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_240"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -580,7 +589,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_241"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -588,7 +597,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_242"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -596,15 +605,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_243"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -613,7 +614,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_244"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -621,7 +622,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_245"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -629,7 +630,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_246"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -637,7 +638,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_247"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -645,7 +646,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_248"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -653,7 +654,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_249"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -661,7 +662,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_250"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -669,7 +670,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_251"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -677,7 +678,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_252"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -685,7 +686,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_253"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -693,7 +694,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_254"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -701,7 +702,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_255"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -709,7 +710,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_256"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -717,7 +718,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_257"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -725,7 +726,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_258"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -733,7 +734,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_259"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -741,7 +742,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_260"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -758,7 +759,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_212"
             android:visibility="gone"
             android:layout_width="8dp"
             android:layout_height="18dp"
@@ -767,7 +768,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_213"
             android:visibility="gone"
             android:layout_width="8dp"
             android:layout_height="18dp"
@@ -776,7 +777,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_214"
             android:visibility="gone"
             android:layout_width="8dp"
             android:layout_height="18dp"
@@ -785,7 +786,15 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_215"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_216"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -793,7 +802,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_217"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -801,7 +810,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_218"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -809,7 +818,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_219"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -817,7 +826,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_220"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -825,7 +834,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_221"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -833,7 +842,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_222"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -841,7 +850,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_223"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -849,7 +858,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_224"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -857,7 +866,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_225"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -865,15 +874,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_226"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -884,7 +885,7 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
-            android:id="@+id/spot_1"
+            android:id="@+id/spot_227"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -893,7 +894,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_228"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -901,7 +902,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_229"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -909,7 +910,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_230"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -917,7 +918,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_231"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -925,7 +926,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_232"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -933,7 +934,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_233"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -941,7 +942,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_234"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -949,7 +950,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_235"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -957,7 +958,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_236"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -965,7 +966,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_237"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -983,7 +984,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_189"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -991,7 +992,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_190"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -999,7 +1000,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_191"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1007,7 +1008,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_192"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1015,7 +1016,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_193"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1023,7 +1024,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_194"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1031,7 +1032,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_195"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1039,7 +1040,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_196"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1047,7 +1048,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_197"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1056,7 +1057,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_198"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1064,7 +1065,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_199"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1072,7 +1073,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_200"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1080,7 +1081,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_201"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1088,7 +1089,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_202"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1096,7 +1097,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_203"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1104,7 +1105,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_204"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1112,7 +1113,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_205"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1120,7 +1121,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_206"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1128,7 +1129,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_207"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1136,7 +1137,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_208"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1144,7 +1145,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_209"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1152,7 +1153,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_210"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1160,7 +1161,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_211"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1168,7 +1169,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_212"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1176,7 +1177,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_213"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1184,7 +1185,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_214"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1192,16 +1193,24 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_gone"
             android:visibility="gone"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:layout_marginTop="3dp"
-            android:background="@color/full" />
+            android:background="@color/tight" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_163"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_164"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1209,7 +1218,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_165"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1217,7 +1226,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_166"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1225,7 +1234,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_167"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1233,7 +1242,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_168"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1241,7 +1250,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_169"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1249,7 +1258,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_170"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1257,7 +1266,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_171"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1265,7 +1274,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_172"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1273,7 +1282,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_173"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1281,7 +1290,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_174"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1289,7 +1298,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_175"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1297,7 +1306,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_176"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1305,15 +1314,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_177"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1324,7 +1325,7 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
-            android:id="@+id/spot_1"
+            android:id="@+id/spot_178"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1333,7 +1334,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_179"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1341,7 +1342,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_180"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1349,7 +1350,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_181"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1357,7 +1358,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_182"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1365,7 +1366,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_183"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1373,7 +1374,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_184"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1381,7 +1382,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_185"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1389,7 +1390,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_186"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1397,7 +1398,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_187"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1405,7 +1406,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_188"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1413,7 +1414,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_136"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1421,7 +1422,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_137"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1429,7 +1430,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_138"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1437,7 +1438,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_139"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1445,7 +1446,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_140"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1453,7 +1454,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_141"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1461,7 +1462,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_142"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1469,7 +1470,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_143"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1477,7 +1478,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_144"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1485,7 +1486,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_145"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1494,7 +1495,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_146"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1502,7 +1503,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_147"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1510,7 +1511,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_148"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1518,7 +1519,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_149"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1526,7 +1527,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_150"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1534,7 +1535,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_151"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1542,7 +1543,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_152"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1550,7 +1551,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_153"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1558,7 +1559,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_154"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1566,7 +1567,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_155"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1574,7 +1575,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_156"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1582,7 +1583,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_157"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1590,7 +1591,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_158"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1598,7 +1599,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_159"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1606,7 +1607,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_160"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1614,7 +1615,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_161"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1622,7 +1623,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_162"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1630,7 +1631,15 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_109"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_110"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1638,7 +1647,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_111"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1646,7 +1655,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_112"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1654,7 +1663,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_113"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1662,7 +1671,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_114"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1670,7 +1679,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_115"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1678,7 +1687,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_116"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1686,7 +1695,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_117"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1694,7 +1703,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_118"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1702,7 +1711,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_119"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1710,7 +1719,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_120"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1718,7 +1727,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_121"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1726,7 +1735,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_122"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1734,15 +1743,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_123"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1753,7 +1754,7 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
-            android:id="@+id/spot_1"
+            android:id="@+id/spot_124"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1762,7 +1763,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_125"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1770,7 +1771,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_126"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1778,7 +1779,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_127"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1786,7 +1787,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_128"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1794,7 +1795,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_129"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1802,7 +1803,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_130"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1810,7 +1811,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_131"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1818,7 +1819,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_132"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1826,7 +1827,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_133"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1834,7 +1835,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_134"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1842,7 +1843,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_135"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1850,7 +1851,15 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_82"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/tight" />
+
+        <View
+            android:id="@+id/spot_83"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1858,7 +1867,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_84"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1866,7 +1875,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_85"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1874,7 +1883,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_86"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1882,7 +1891,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_87"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1890,7 +1899,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_88"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1898,7 +1907,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_89"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1906,7 +1915,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_90"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -1914,152 +1923,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_91"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2068,7 +1932,144 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_92"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_93"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_94"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_95"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_96"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_97"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_98"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_99"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_100"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_101"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_102"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_103"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_104"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_105"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_106"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_107"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_108"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+
+        <View
+            android:id="@+id/spot_55"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2076,7 +2077,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_56"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2084,7 +2085,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_57"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2092,7 +2093,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_58"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2100,7 +2101,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_59"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2108,7 +2109,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_60"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2116,7 +2117,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_61"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2124,7 +2125,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_62"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2132,7 +2133,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_63"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2140,7 +2141,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_64"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2148,7 +2149,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_65"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2156,7 +2157,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_66"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2164,7 +2165,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_67"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2172,7 +2173,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_68"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2180,7 +2181,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_69"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2191,21 +2192,328 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
+            android:id="@+id/spot_70"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+
+        <View
+            android:id="@+id/spot_71"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_72"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_73"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_74"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_75"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_76"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_77"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_78"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_79"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_80"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_81"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:background="@color/tight" />
+
+
+        <View
+            android:id="@+id/spot_28"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_29"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_30"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_31"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_32"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_33"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_34"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_35"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_36"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_37"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+
+        <View
+            android:id="@+id/spot_38"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_39"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_40"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_41"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_42"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_43"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_44"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_45"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_46"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_47"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_48"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_49"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_50"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_51"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_52"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_53"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+        <View
+            android:id="@+id/spot_54"
+            android:layout_width="8dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:background="@color/full" />
+
+
+        <View
             android:id="@+id/spot_1"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
             android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
+            android:background="@color/tight" />
 
         <View
             android:id="@+id/spot_2"
@@ -2216,7 +2524,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_3"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2224,7 +2532,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_4"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2232,7 +2540,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_5"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2240,7 +2548,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_6"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2248,7 +2556,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_7"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2256,7 +2564,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_8"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2264,7 +2572,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_9"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2272,7 +2580,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_10"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2280,234 +2588,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="12dp"
-            android:background="@color/full" />
-
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_11"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2515,7 +2596,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_12"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2523,7 +2604,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_13"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2531,7 +2612,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_14"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2539,87 +2620,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
-            android:layout_width="8dp"
-            android:layout_height="18dp"
-            android:layout_marginLeft="3dp"
-            android:layout_marginTop="3dp"
-            android:background="@color/full" />
-
-        <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_15"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2630,7 +2631,7 @@
         <!-- Define each cell here -->
         <!-- Example for sectorA cells -->
         <View
-            android:id="@+id/spot_1"
+            android:id="@+id/spot_16"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2639,7 +2640,7 @@
 
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_17"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2647,7 +2648,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_18"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2655,7 +2656,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_19"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2663,7 +2664,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_20"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2671,7 +2672,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_21"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2679,7 +2680,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_22"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2687,7 +2688,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_23"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2695,7 +2696,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_24"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2703,7 +2704,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_25"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2711,7 +2712,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_26"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
@@ -2719,7 +2720,7 @@
             android:background="@color/full" />
 
         <View
-            android:id="@+id/spot_2"
+            android:id="@+id/spot_27"
             android:layout_width="8dp"
             android:layout_height="18dp"
             android:layout_marginLeft="3dp"
